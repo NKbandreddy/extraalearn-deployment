@@ -1,0 +1,64 @@
+{
+  "columns": [
+    "age",
+    "current_occupation",
+    "first_interaction",
+    "profile_completed",
+    "website_visits",
+    "time_spent_on_website",
+    "page_views_per_visit",
+    "last_activity",
+    "print_media_type1",
+    "print_media_type2",
+    "digital_media",
+    "educational_channels",
+    "referral"
+  ],
+  "numeric": [
+    "age",
+    "website_visits",
+    "time_spent_on_website",
+    "page_views_per_visit"
+  ],
+  "categories": {
+    "current_occupation": [
+      "Professional",
+      "Student",
+      "Unemployed"
+    ],
+    "first_interaction": [
+      "Mobile App",
+      "Website"
+    ],
+    "profile_completed": [
+      "High",
+      "Low",
+      "Medium"
+    ],
+    "last_activity": [
+      "Email Activity",
+      "Phone Activity",
+      "Website Activity"
+    ],
+    "print_media_type1": [
+      "No",
+      "Yes"
+    ],
+    "print_media_type2": [
+      "No",
+      "Yes"
+    ],
+    "digital_media": [
+      "No",
+      "Yes"
+    ],
+    "educational_channels": [
+      "No",
+      "Yes"
+    ],
+    "referral": [
+      "No",
+      "Yes"
+    ]
+  }
+}
